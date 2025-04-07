@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0; 
+    padding: 0;
+}
+
+.btn {
+/* creer la forme du bouton + la typo*/
+ border-radius: 32px; /*arrondir les angles*/
+padding: 11px;21px;
+display: inline-block
+font-family: "Itim", cursive;
+ text-decoration: none;
+
+}
+
+.vert {
+/*mettre la couleur verte dans le bouton*/
+ background-color: green;
+}
+
+.blanc {
+    background-color:green;
+    
+}
+
+    
+    
+   
+    
+    
+    
+   
+   
+    
